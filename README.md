@@ -42,7 +42,58 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](./image/Screenshot(13).png)
+![OUTPUT](./image/S.png)
 
 ## RESULT:
 Program is ececuted successfully
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
